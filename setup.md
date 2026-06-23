@@ -26,8 +26,8 @@ conda --version
 ## 2. Clone this repository
 
 ```bash
-git clone https://github.com/flexfengfeng/dsai-m3-l07-learner.git
-cd dsai-m3-l07-learner
+git clone https://github.com/su-ntu-ctp/6m-data-3.7-Neural-Networks-Deep-Learning.git
+cd 6m-data-3.7-Neural-Networks-Deep-Learning
 ```
 
 ---
